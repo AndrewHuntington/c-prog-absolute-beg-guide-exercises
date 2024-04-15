@@ -6,7 +6,7 @@
 #include <stdio.h>
 #include <string.h>
 
-main()
+int main()
 {
     // Kid1 can hold an 11-character name
     char Kid1[12];
